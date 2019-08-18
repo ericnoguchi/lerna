@@ -1,5 +1,5 @@
 {
-  "name": "@ericn/p1-30",
+  "name": "@ericnoguchi/p1",
   "version": "0.0.5",
   "description": "about @eric/p1",
   "author": "Eric Ln <test@test.com>",
@@ -22,5 +22,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a679bdfe4e0fb8e422270d5a38d2dc4ef71a0588"
+  "gitHead": "69d9a828cbe5dccc311f9a4b1bb2134269cc954a"
 }
