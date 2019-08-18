@@ -1,5 +1,5 @@
 {
-  "name": "@eric-30/p2",
+  "name": "@ericn/p2-30",
   "version": "0.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -27,5 +27,5 @@
     "url": "https://github.com/ericnoguchi/lerna/issues"
   },
   "homepage": "https://github.com/ericnoguchi/lerna#readme",
-  "gitHead": "878656c7d3c4c5d452beb7267b9a4210ba9cfdb3"
+  "gitHead": "a679bdfe4e0fb8e422270d5a38d2dc4ef71a0588"
 }
